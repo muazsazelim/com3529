@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.shef.com3529.CalendarTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-06-01T15:49:17" hostname="Muazs-MacBook-Air.local" time="0.037">
+  <properties/>
+  <testcase name="testDateSanitization()" classname="uk.ac.shef.com3529.CalendarTest" time="0.029"/>
+  <testcase name="testDaysBetweenTwoDatesAcrossYears()" classname="uk.ac.shef.com3529.CalendarTest" time="0.001"/>
+  <testcase name="testIsLeapYear()" classname="uk.ac.shef.com3529.CalendarTest" time="0.001"/>
+  <testcase name="testDaysBetweenTwoDatesAcrossMonths()" classname="uk.ac.shef.com3529.CalendarTest" time="0.0"/>
+  <testcase name="testDaysInMonth()" classname="uk.ac.shef.com3529.CalendarTest" time="0.0"/>
+  <testcase name="testDaysBetweenTwoDatesSameMonth()" classname="uk.ac.shef.com3529.CalendarTest" time="0.0"/>
+  <testcase name="testDaysBetweenWithUnorderedDates()" classname="uk.ac.shef.com3529.CalendarTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
